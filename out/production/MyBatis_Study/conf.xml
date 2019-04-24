@@ -17,6 +17,11 @@
     <mappers>
         <!-- 注册uesrMapper.xml文件 -->
         <mapper resource="me/tka/mapping/userMapper.xml"/>
+
+        <!-- 注册uesrMapperI -->
+        <mapper class="me.tka.mapping.UserMapperI"/>
     </mappers>
+
+
 
 </configuration>

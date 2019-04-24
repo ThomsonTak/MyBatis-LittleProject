@@ -16,4 +16,9 @@
             resultType="me.tka.domain.User">
         select * from users where id=#{id}
     </select>
+
+    <!-- Create a new user, with inserting name and age -->
+    <insert id="" parameterType="me.tka.domain.User">
+        insert into users(name, age) values (#{name}, #{age})
+    </insert>
 </mapper>
