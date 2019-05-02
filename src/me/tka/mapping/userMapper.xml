@@ -18,7 +18,12 @@
     </select>
 
     <!-- Create a new user, with inserting name and age -->
-    <insert id="" parameterType="me.tka.domain.User">
+    <insert id="addUser" parameterType="me.tka.domain.User">
         insert into users(name, age) values (#{name}, #{age})
     </insert>
+
+    <!-- Delete a user -->
+    <delete id="deleteUser" parameterType="int">
+        delete from users where id=#{id}
+    </delete>
 </mapper>

@@ -1,7 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="1efcd616-3e09-4db5-8589-914c08a4b7c3" name="Default Changelist" comment="" />
+    <list default="true" id="1efcd616-3e09-4db5-8589-914c08a4b7c3" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MyBatis_Study.iml" beforeDir="false" afterPath="$PROJECT_DIR$/MyBatis_Study.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/MyBatis_Study/me/tka/mapping/UserMapperI.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/MyBatis_Study/me/tka/mapping/UserMapperI.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/MyBatis_Study/me/tka/mapping/userMapper.xml" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/MyBatis_Study/me/tka/mapping/userMapper.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/MyBatis_Study/me/tka/test/TestCRUDByXmlMapper.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/MyBatis_Study/me/tka/test/TestCRUDByXmlMapper.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/me/tka/mapping/UserMapperI.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/me/tka/mapping/UserMapperI.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/me/tka/mapping/userMapper.xml" beforeDir="false" afterPath="$PROJECT_DIR$/src/me/tka/mapping/userMapper.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/me/tka/test/TestCRUDByXmlMapper.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/me/tka/test/TestCRUDByXmlMapper.java" afterDir="false" />
+    </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -13,16 +22,17 @@
     <session id="-1835039296">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="2" />
+          <entry key="project.closed" value="3" />
           <entry key="project.open.time.0" value="1" />
           <entry key="project.open.time.1" value="1" />
           <entry key="project.open.time.7" value="1" />
-          <entry key="project.opened" value="3" />
+          <entry key="project.open.time.8" value="1" />
+          <entry key="project.opened" value="4" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
-          <entry key="class" value="1" />
+          <entry key="class" value="2" />
           <entry key="fxml" value="1" />
           <entry key="java" value="9" />
           <entry key="xml" value="2" />
@@ -30,21 +40,42 @@
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
-          <entry key="CLASS" value="1" />
+          <entry key="CLASS" value="2" />
           <entry key="JAVA" value="9" />
           <entry key="XML" value="3" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
-          <entry key="java" value="119" />
-          <entry key="xml" value="281" />
+          <entry key="java" value="412" />
+          <entry key="xml" value="369" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="JAVA" value="119" />
-          <entry key="XML" value="281" />
+          <entry key="JAVA" value="412" />
+          <entry key="XML" value="369" />
+        </counts>
+      </usages-collector>
+    </session>
+    <session id="-485651857">
+      <usages-collector id="statistics.file.extensions.open">
+        <counts>
+          <entry key="iml" value="1" />
+          <entry key="java" value="2" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.open">
+        <counts>
+          <entry key="IDEA_MODULE" value="1" />
+          <entry key="JAVA" value="2" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.lifecycle.project">
+        <counts>
+          <entry key="project.closed" value="2" />
+          <entry key="project.open.time.5" value="1" />
+          <entry key="project.opened" value="1" />
         </counts>
       </usages-collector>
     </session>
@@ -52,10 +83,10 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/conf.xml">
+        <entry file="file://$PROJECT_DIR$/MyBatis-LittleProject.iml">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="417">
-              <caret line="21" column="21" selection-start-line="21" selection-start-column="21" selection-end-line="21" selection-end-column="21" />
+            <state relative-caret-position="110">
+              <caret line="5" column="37" selection-start-line="5" selection-start-column="37" selection-end-line="5" selection-end-column="37" />
             </state>
           </provider>
         </entry>
@@ -63,54 +94,11 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/me/tka/test/Test1.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="154">
-              <caret line="7" column="18" selection-start-column="15" selection-end-column="19" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/me/tka/mapping/UserMapperI.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="132">
-              <caret line="6" column="67" selection-start-line="6" selection-start-column="67" selection-end-line="6" selection-end-column="67" />
+            <state relative-caret-position="88">
+              <caret line="10" column="13" selection-start-line="10" selection-start-column="13" selection-end-line="10" selection-end-column="13" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/me/tka/domain/User.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="462">
-              <caret line="21" column="17" selection-start-line="21" selection-start-column="17" selection-end-line="21" selection-end-column="17" />
-              <folding>
-                <element signature="e#200#201#0" expanded="true" />
-                <element signature="e#225#226#0" expanded="true" />
-                <element signature="e#258#259#0" expanded="true" />
-                <element signature="e#286#287#0" expanded="true" />
-                <element signature="e#317#318#0" expanded="true" />
-                <element signature="e#344#345#0" expanded="true" />
-                <element signature="e#384#385#0" expanded="true" />
-                <element signature="e#416#417#0" expanded="true" />
-                <element signature="e#443#444#0" expanded="true" />
-                <element signature="e#469#470#0" expanded="true" />
-                <element signature="e#504#505#0" expanded="true" />
-                <element signature="e#534#535#0" expanded="true" />
-                <element signature="e#580#581#0" expanded="true" />
-                <element signature="e#661#662#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/me/tka/mapping/userMapper.xml">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="462">
-              <caret line="21" column="59" selection-start-line="21" selection-start-column="59" selection-end-line="21" selection-end-column="59" />
             </state>
           </provider>
         </entry>
@@ -118,24 +106,10 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/me/tka/test/TestCRUDByXmlMapper.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="396">
-              <caret line="18" column="24" lean-forward="true" selection-start-line="18" selection-start-column="24" selection-end-line="18" selection-end-column="24" />
+            <state relative-caret-position="330">
+              <caret line="15" column="15" lean-forward="true" selection-start-line="15" selection-start-column="15" selection-end-line="15" selection-end-column="15" />
               <folding>
                 <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/me/tka/util/MyBatisUtil.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="190">
-              <caret line="16" selection-start-line="16" selection-end-line="16" />
-              <folding>
-                <element signature="imports" expanded="true" />
-                <element signature="e#697#698#0" expanded="true" />
-                <element signature="e#739#740#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -159,6 +133,9 @@
       <replace>tka</replace>
     </replaceStrings>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
@@ -166,100 +143,57 @@
         <option value="$PROJECT_DIR$/src/me/gacl/domain/User.java" />
         <option value="$PROJECT_DIR$/src/me/tka/domain/Users.java" />
         <option value="$PROJECT_DIR$/src/me/tka/domain/User.java" />
-        <option value="$PROJECT_DIR$/src/me/tka/mapping/userMapper.xml" />
         <option value="$PROJECT_DIR$/src/me/tka/util/MyBatisUtil.java" />
-        <option value="$PROJECT_DIR$/src/me/tka/mapping/UserMapperI.java" />
         <option value="$PROJECT_DIR$/src/me/tka/test/Test1.java" />
         <option value="$PROJECT_DIR$/src/conf.xml" />
+        <option value="$PROJECT_DIR$/src/me/tka/mapping/userMapper.xml" />
+        <option value="$PROJECT_DIR$/src/me/tka/mapping/UserMapperI.java" />
         <option value="$PROJECT_DIR$/src/me/tka/test/TestCRUDByXmlMapper.java" />
+        <option value="$PROJECT_DIR$/MyBatis-LittleProject.iml" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds" extendedState="4">
-    <option name="x" value="85" />
-    <option name="y" value="25" />
-    <option name="width" value="1835" />
-    <option name="height" value="1055" />
+    <option name="x" value="960" />
+    <option name="width" value="950" />
+    <option name="height" value="1080" />
   </component>
   <component name="ProjectView">
     <navigator proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="PackagesPane" />
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
             <path>
-              <item name="MyBatis_Study" type="b2602c69:ProjectViewProjectNode" />
-              <item name="MyBatis_Study" type="462c0819:PsiDirectoryNode" />
+              <item name="MyBatis-LittleProject" type="b2602c69:ProjectViewProjectNode" />
+              <item name="MyBatis-LittleProject" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
-              <item name="MyBatis_Study" type="b2602c69:ProjectViewProjectNode" />
-              <item name="MyBatis_Study" type="462c0819:PsiDirectoryNode" />
+              <item name="MyBatis-LittleProject" type="b2602c69:ProjectViewProjectNode" />
+              <item name="MyBatis-LittleProject" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
-              <item name="MyBatis_Study" type="b2602c69:ProjectViewProjectNode" />
-              <item name="MyBatis_Study" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="tka" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="MyBatis_Study" type="b2602c69:ProjectViewProjectNode" />
-              <item name="MyBatis_Study" type="462c0819:PsiDirectoryNode" />
+              <item name="MyBatis-LittleProject" type="b2602c69:ProjectViewProjectNode" />
+              <item name="MyBatis-LittleProject" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="tka" type="462c0819:PsiDirectoryNode" />
-              <item name="domain" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
-              <item name="MyBatis_Study" type="b2602c69:ProjectViewProjectNode" />
-              <item name="MyBatis_Study" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="tka" type="462c0819:PsiDirectoryNode" />
-              <item name="mapping" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="MyBatis_Study" type="b2602c69:ProjectViewProjectNode" />
-              <item name="MyBatis_Study" type="462c0819:PsiDirectoryNode" />
+              <item name="MyBatis-LittleProject" type="b2602c69:ProjectViewProjectNode" />
+              <item name="MyBatis-LittleProject" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="tka" type="462c0819:PsiDirectoryNode" />
               <item name="test" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="MyBatis_Study" type="b2602c69:ProjectViewProjectNode" />
-              <item name="MyBatis_Study" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="tka" type="462c0819:PsiDirectoryNode" />
-              <item name="util" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="MyBatis_Study" type="b2602c69:ProjectViewProjectNode" />
-              <item name="MyBatis_Study" type="462c0819:PsiDirectoryNode" />
-              <item name="WebRoot" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="MyBatis_Study" type="b2602c69:ProjectViewProjectNode" />
-              <item name="MyBatis_Study" type="462c0819:PsiDirectoryNode" />
-              <item name="WebRoot" type="462c0819:PsiDirectoryNode" />
-              <item name="WEB-INF" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="MyBatis_Study" type="b2602c69:ProjectViewProjectNode" />
-              <item name="MyBatis_Study" type="462c0819:PsiDirectoryNode" />
-              <item name="WebRoot" type="462c0819:PsiDirectoryNode" />
-              <item name="WEB-INF" type="462c0819:PsiDirectoryNode" />
-              <item name="lib" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="MyBatis_Study" type="b2602c69:ProjectViewProjectNode" />
-              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
+      <pane id="PackagesPane" />
       <pane id="AndroidView" />
     </panes>
   </component>
@@ -267,11 +201,12 @@
     <property name="Downloaded.Files.Path.Enabled" value="false" />
     <property name="Repository.Attach.JavaDocs" value="false" />
     <property name="Repository.Attach.Sources" value="false" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1556119002026" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/WebRoot/WEB-INF/lib/mysql-connector-java-8.0.15.jar!/" />
-    <property name="project.structure.last.edited" value="Modules" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1556795299442" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/conf.xml" />
+    <property name="project.structure.last.edited" value="SDKs" />
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="MavenSettings" />
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -285,7 +220,23 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="JUnit.TestCRUDByXmlMapper.testAdd">
+  <component name="RunManager" selected="Android JUnit.TestCRUDByXmlMapper.testAdd">
+    <configuration name="TestCRUDByXmlMapper.testAdd" type="AndroidJUnit" factoryName="Android JUnit" temporary="true" nameIsGenerated="true">
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="me.tka.test.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="me.tka.test.TestCRUDByXmlMapper" />
+      <option name="METHOD_NAME" value="testAdd" />
+      <option name="TEST_OBJECT" value="method" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="Test1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="me.tka.test.Test1" />
       <module name="MyBatis_Study" />
@@ -329,13 +280,33 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="TestCRUDByXmlMapper.testDelete" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="MyBatis_Study" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="me.tka.test.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="me.tka.test" />
+      <option name="MAIN_CLASS_NAME" value="me.tka.test.TestCRUDByXmlMapper" />
+      <option name="METHOD_NAME" value="testDelete" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <list>
       <item itemvalue="Application.Test1" />
       <item itemvalue="JUnit.TestCRUDByXmlMapper.testAdd" />
       <item itemvalue="JUnit.TestCRUDByXmlMapper" />
+      <item itemvalue="JUnit.TestCRUDByXmlMapper.testDelete" />
+      <item itemvalue="Android JUnit.TestCRUDByXmlMapper.testAdd" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Android JUnit.TestCRUDByXmlMapper.testAdd" />
+        <item itemvalue="JUnit.TestCRUDByXmlMapper.testDelete" />
         <item itemvalue="JUnit.TestCRUDByXmlMapper.testAdd" />
         <item itemvalue="JUnit.TestCRUDByXmlMapper" />
         <item itemvalue="Application.Test1" />
@@ -356,24 +327,41 @@
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="TestCRUDByXmlMapper_testAdd - 2019.04.24 at 23h 03m 42s.xml">
+    <history-entry file="TestCRUDByXmlMapper_testDelete - 2019.05.02 at 18h 44m 38s.xml">
+      <configuration name="TestCRUDByXmlMapper.testDelete" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="TestCRUDByXmlMapper_testDelete - 2019.05.02 at 18h 46m 11s.xml">
+      <configuration name="TestCRUDByXmlMapper.testDelete" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="TestCRUDByXmlMapper_testAdd - 2019.05.02 at 18h 47m 48s.xml">
       <configuration name="TestCRUDByXmlMapper.testAdd" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="TestCRUDByXmlMapper_testAdd - 2019.04.24 at 23h 05m 51s.xml">
-      <configuration name="TestCRUDByXmlMapper.testAdd" configurationId="JUnit" />
+    <history-entry file="TestCRUDByXmlMapper_testDelete - 2019.05.02 at 18h 49m 03s.xml">
+      <configuration name="TestCRUDByXmlMapper.testDelete" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="TestCRUDByXmlMapper - 2019.04.24 at 23h 12m 55s.xml">
-      <configuration name="TestCRUDByXmlMapper" configurationId="JUnit" />
+    <history-entry file="TestCRUDByXmlMapper_testDelete - 2019.05.02 at 18h 49m 32s.xml">
+      <configuration name="TestCRUDByXmlMapper.testDelete" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="TestCRUDByXmlMapper_testAdd - 2019.04.24 at 23h 13m 24s.xml">
-      <configuration name="TestCRUDByXmlMapper.testAdd" configurationId="JUnit" />
+    <history-entry file="TestCRUDByXmlMapper_testDelete - 2019.05.02 at 18h 51m 02s.xml">
+      <configuration name="TestCRUDByXmlMapper.testDelete" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="TestCRUDByXmlMapper_testDelete - 2019.05.02 at 18h 51m 24s.xml">
+      <configuration name="TestCRUDByXmlMapper.testDelete" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="TestCRUDByXmlMapper_testDelete - 2019.05.02 at 18h 52m 48s.xml">
+      <configuration name="TestCRUDByXmlMapper.testDelete" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="TestCRUDByXmlMapper_testDelete - 2019.05.02 at 18h 53m 05s.xml">
+      <configuration name="TestCRUDByXmlMapper.testDelete" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="TestCRUDByXmlMapper_testDelete - 2019.05.02 at 19h 06m 06s.xml">
+      <configuration name="TestCRUDByXmlMapper.testDelete" configurationId="JUnit" />
     </history-entry>
   </component>
   <component name="ToolWindowManager">
-    <frame x="85" y="25" width="1835" height="1055" extended-state="4" />
-    <editor active="true" />
+    <frame x="960" y="0" width="950" height="1080" extended-state="4" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.16210173" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.25331858" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -382,7 +370,7 @@
       <window_info id="Favorites" order="6" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.3279396" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.32983193" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -400,125 +388,82 @@
       <window_info anchor="right" id="Palette&#9;" order="6" />
       <window_info anchor="right" id="Maven Projects" order="7" />
     </layout>
-    <layout-to-restore>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.2549234" />
-      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
-      <window_info id="Image Layers" order="2" />
-      <window_info id="Designer" order="3" />
-      <window_info id="UI Designer" order="4" />
-      <window_info id="Capture Tool" order="5" />
-      <window_info id="Favorites" order="6" side_tool="true" />
-      <window_info anchor="bottom" id="Message" order="0" />
-      <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.32897604" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
-      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
-      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
-      <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info anchor="bottom" id="Terminal" order="7" />
-      <window_info anchor="bottom" id="Event Log" order="8" side_tool="true" />
-      <window_info anchor="bottom" id="Version Control" order="9" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Messages" order="10" weight="0.32897604" />
-      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
-      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
-      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
-      <window_info anchor="right" id="Palette" order="3" />
-      <window_info anchor="right" id="Capture Analysis" order="4" />
-      <window_info anchor="right" id="Theme Preview" order="5" />
-      <window_info anchor="right" id="Palette&#9;" order="6" />
-      <window_info anchor="right" id="Maven Projects" order="7" />
-    </layout-to-restore>
   </component>
   <component name="VcsContentAnnotationSettings">
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/src/me/tka/domain/Users.java" />
-    <entry file="file://$PROJECT_DIR$/src/me/tka/domain/User.java">
+    <entry file="file://$PROJECT_DIR$/src/me/tka/test/TestCRUDByXmlMapper" />
+    <entry file="file://$PROJECT_DIR$/src/me/tka/util/MyBatisUtil.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="350">
+          <caret line="16" selection-start-line="16" selection-end-line="16" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#697#698#0" expanded="true" />
+            <element signature="e#756#757#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/conf.xml">
+      <provider editor-type-id="JavaFX-Scene-Builder" />
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="462">
-          <caret line="21" column="17" selection-start-line="21" selection-start-column="17" selection-end-line="21" selection-end-column="17" />
-          <folding>
-            <element signature="e#200#201#0" expanded="true" />
-            <element signature="e#225#226#0" expanded="true" />
-            <element signature="e#258#259#0" expanded="true" />
-            <element signature="e#286#287#0" expanded="true" />
-            <element signature="e#317#318#0" expanded="true" />
-            <element signature="e#344#345#0" expanded="true" />
-            <element signature="e#384#385#0" expanded="true" />
-            <element signature="e#416#417#0" expanded="true" />
-            <element signature="e#443#444#0" expanded="true" />
-            <element signature="e#469#470#0" expanded="true" />
-            <element signature="e#504#505#0" expanded="true" />
-            <element signature="e#534#535#0" expanded="true" />
-            <element signature="e#580#581#0" expanded="true" />
-            <element signature="e#661#662#0" expanded="true" />
-          </folding>
+          <caret line="21" column="21" selection-start-line="21" selection-start-column="21" selection-end-line="21" selection-end-column="21" />
         </state>
       </provider>
     </entry>
     <entry file="jar://$PROJECT_DIR$/WebRoot/WEB-INF/lib/mybatis-3.5.0.jar!/org/apache/ibatis/session/SqlSession.class">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="198">
-          <caret line="17" column="10" selection-start-line="17" selection-start-column="10" selection-end-line="17" selection-end-column="10" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/me/tka/test/TestCRUDByXmlMapper">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="330">
-          <caret line="15" column="16" selection-start-line="15" selection-start-column="16" selection-end-line="15" selection-end-column="16" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/me/tka/util/MyBatisUtil.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="190">
-          <caret line="16" selection-start-line="16" selection-end-line="16" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#697#698#0" expanded="true" />
-            <element signature="e#739#740#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/me/tka/mapping/UserMapperI.java">
-      <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="132">
-          <caret line="6" column="67" selection-start-line="6" selection-start-column="67" selection-end-line="6" selection-end-column="67" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
+          <caret line="14" column="17" selection-start-line="14" selection-start-column="17" selection-end-line="14" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/me/tka/domain/User.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-326">
+          <caret line="6" column="13" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/me/tka/mapping/userMapper.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="462">
-          <caret line="21" column="59" selection-start-line="21" selection-start-column="59" selection-end-line="21" selection-end-column="59" />
+        <state relative-caret-position="40">
+          <caret line="9" column="21" selection-start-line="9" selection-start-column="21" selection-end-line="9" selection-end-column="21" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/conf.xml">
+    <entry file="file://$PROJECT_DIR$/src/me/tka/mapping/UserMapperI.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="417">
-          <caret line="21" column="21" selection-start-line="21" selection-start-column="21" selection-end-line="21" selection-end-column="21" />
+        <state relative-caret-position="220">
+          <caret line="10" column="30" selection-start-line="10" selection-start-column="30" selection-end-line="10" selection-end-column="30" />
         </state>
       </provider>
-      <provider editor-type-id="JavaFX-Scene-Builder" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/MyBatis-LittleProject.iml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="110">
+          <caret line="5" column="37" selection-start-line="5" selection-start-column="37" selection-end-line="5" selection-end-column="37" />
+        </state>
+      </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/me/tka/test/Test1.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="154">
-          <caret line="7" column="18" selection-start-column="15" selection-end-column="19" />
+        <state relative-caret-position="88">
+          <caret line="10" column="13" selection-start-line="10" selection-start-column="13" selection-end-line="10" selection-end-column="13" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/me/tka/test/TestCRUDByXmlMapper.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="396">
-          <caret line="18" column="24" lean-forward="true" selection-start-line="18" selection-start-column="24" selection-end-line="18" selection-end-column="24" />
+        <state relative-caret-position="330">
+          <caret line="15" column="15" lean-forward="true" selection-start-line="15" selection-start-column="15" selection-end-line="15" selection-end-column="15" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
@@ -601,6 +546,7 @@
       </state>
       <state key="ProjectLibrariesConfigurable.UI">
         <settings>
+          <last-edited>lib</last-edited>
           <splitter-proportions>
             <option name="proportions">
               <list>

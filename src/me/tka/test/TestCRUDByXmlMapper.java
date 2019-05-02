@@ -22,4 +22,13 @@ public class TestCRUDByXmlMapper {
         sqlSession.close();
         System.out.println(add);
     }
+
+    @Test
+    public void testDelete() {
+        SqlSession sqlSession = MyBatisUtil.getSqlSession(true);
+        UserMapperI mapper = sqlSession.getMapper(UserMapperI.class);
+        int ret = mapper.delete(3);
+        sqlSession.close();
+        System.out.println(ret);
+    }
 }
