@@ -17,6 +17,10 @@
         select * from users where id=#{id}
     </select>
 
+    <select id="getAllUsers" resultType="me.tka.domain.User">
+        select * from users
+    </select>
+
     <!-- Create a new user, with inserting name and age -->
     <insert id="addUser" parameterType="me.tka.domain.User">
         insert into users(name, age) values (#{name}, #{age})
@@ -26,4 +30,9 @@
     <delete id="deleteUser" parameterType="int">
         delete from users where id=#{id}
     </delete>
+
+    <!-- Update a user -->
+    <update id="updateUser" parameterType="me.tka.domain.User">
+        update users set name=#{name}, age=#{age} where id=#{id}
+    </update>
 </mapper>

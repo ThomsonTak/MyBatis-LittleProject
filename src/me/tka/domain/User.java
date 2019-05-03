@@ -1,7 +1,7 @@
 package me.tka.domain;
 
 /**
- * @author gacl
+ * @author tka
  * users表所对应的实体类
  */
 public class User {
